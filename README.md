@@ -758,4 +758,4 @@ function library:CreateGui(parameters)
     return GuiFunctions
 end
 
-getgenv().lib = library
+return lib
