@@ -758,4 +758,4 @@ function library:CreateGui(parameters)
     return GuiFunctions
 end
 
-return lib
+return library
